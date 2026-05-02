@@ -142,3 +142,9 @@ Methlesh Kumar
 * Automated application lifecycle management
 
 ---
+<img width="1920" height="1080" alt="jenkins build sucess" src="https://github.com/user-attachments/assets/1a0d324b-9dde-49b2-bb9e-1f83a0e784b7" />
+
+<img width="1920" height="1080" alt="aws s3" src="https://github.com/user-attachments/assets/a7ef46ab-3e44-42f4-ac31-ebba2425ae34" />
+<img width="1920" height="1080" alt="aws ec2" src="https://github.com/user-attachments/assets/33fe9b3f-ada8-4d2a-a79e-9a5073605770" />
+<img width="1920" height="1080" alt="tomcat loading app" src="https://github.com/user-attachments/assets/5f47b59c-5af8-4ff3-ac83-61d90507197c" />
+
