@@ -1,4 +1,4 @@
-# 🚀 CI/CD Pipeline: Jenkins + AWS S3 + Tomcat Deployment
+# 🚀 🚀 End-to-End CI/CD Pipeline using Jenkins, AWS S3, and Tomcat on EC2
 
 ## 📌 Project Overview
 
@@ -140,6 +140,13 @@ Methlesh Kumar
 * Real-world debugging and issue resolution
 * Cloud-based deployment using AWS
 * Automated application lifecycle management
+
+## 🔧 Enhancements Made
+- Modified CI/CD pipeline for stability and automation
+- Integrated AWS S3 for artifact storage
+- Implemented Tomcat deployment using Jenkins pipeline
+- Resolved permission and service restart issues
+- Configured passwordless sudo for automation
 
 ---
 <img width="1920" height="1080" alt="jenkins build sucess" src="https://github.com/user-attachments/assets/1a0d324b-9dde-49b2-bb9e-1f83a0e784b7" />
